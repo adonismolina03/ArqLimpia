@@ -1,0 +1,12 @@
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpiaBL.DTOs\bin\Debug\net6.0\AbnerMolina.ArqLimpia.BL.DTOs.deps.json
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpiaBL.DTOs\bin\Debug\net6.0\AbnerMolina.ArqLimpia.BL.DTOs.dll
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpiaBL.DTOs\bin\Debug\net6.0\AbnerMolina.ArqLimpia.BL.DTOs.pdb
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpiaBL.DTOs\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.DTOs.csproj.AssemblyReference.cache
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpiaBL.DTOs\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpiaBL.DTOs\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.DTOs.AssemblyInfoInputs.cache
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpiaBL.DTOs\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.DTOs.AssemblyInfo.cs
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpiaBL.DTOs\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpiaBL.DTOs\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.DTOs.dll
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpiaBL.DTOs\obj\Debug\net6.0\refint\AbnerMolina.ArqLimpia.BL.DTOs.dll
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpiaBL.DTOs\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.DTOs.pdb
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpiaBL.DTOs\obj\Debug\net6.0\ref\AbnerMolina.ArqLimpia.BL.DTOs.dll

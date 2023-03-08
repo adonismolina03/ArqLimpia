@@ -1,0 +1,12 @@
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.EN\bin\Debug\net6.0\AbnerMolina.ArqLimpia.EN.deps.json
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.EN\bin\Debug\net6.0\AbnerMolina.ArqLimpia.EN.dll
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.EN\bin\Debug\net6.0\AbnerMolina.ArqLimpia.EN.pdb
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.EN\obj\Debug\net6.0\AbnerMolina.ArqLimpia.EN.csproj.AssemblyReference.cache
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.EN\obj\Debug\net6.0\AbnerMolina.ArqLimpia.EN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.EN\obj\Debug\net6.0\AbnerMolina.ArqLimpia.EN.AssemblyInfoInputs.cache
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.EN\obj\Debug\net6.0\AbnerMolina.ArqLimpia.EN.AssemblyInfo.cs
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.EN\obj\Debug\net6.0\AbnerMolina.ArqLimpia.EN.csproj.CoreCompileInputs.cache
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.EN\obj\Debug\net6.0\AbnerMolina.ArqLimpia.EN.dll
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.EN\obj\Debug\net6.0\refint\AbnerMolina.ArqLimpia.EN.dll
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.EN\obj\Debug\net6.0\AbnerMolina.ArqLimpia.EN.pdb
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.EN\obj\Debug\net6.0\ref\AbnerMolina.ArqLimpia.EN.dll

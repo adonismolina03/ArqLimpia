@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AbnerMolina.ArqLimpia.BL.Interfaces/1.0.0": {
+        "dependencies": {
+          "AbnerMolina.ArqLimpia.BL.DTOs": "1.0.0"
+        },
+        "runtime": {
+          "AbnerMolina.ArqLimpia.BL.Interfaces.dll": {}
+        }
+      },
+      "AbnerMolina.ArqLimpia.BL.DTOs/1.0.0": {
+        "runtime": {
+          "AbnerMolina.ArqLimpia.BL.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbnerMolina.ArqLimpia.BL.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbnerMolina.ArqLimpia.BL.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

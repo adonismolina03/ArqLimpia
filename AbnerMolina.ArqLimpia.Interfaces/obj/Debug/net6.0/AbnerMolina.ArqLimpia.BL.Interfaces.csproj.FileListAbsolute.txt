@@ -1,0 +1,15 @@
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\bin\Debug\net6.0\AbnerMolina.ArqLimpia.BL.Interfaces.deps.json
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\bin\Debug\net6.0\AbnerMolina.ArqLimpia.BL.Interfaces.dll
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\bin\Debug\net6.0\AbnerMolina.ArqLimpia.BL.Interfaces.pdb
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\bin\Debug\net6.0\AbnerMolina.ArqLimpia.BL.DTOs.dll
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\bin\Debug\net6.0\AbnerMolina.ArqLimpia.BL.DTOs.pdb
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.Interfaces.AssemblyInfo.cs
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.Interfaces.csproj.CopyComplete
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.Interfaces.dll
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\obj\Debug\net6.0\refint\AbnerMolina.ArqLimpia.BL.Interfaces.dll
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\obj\Debug\net6.0\AbnerMolina.ArqLimpia.BL.Interfaces.pdb
+C:\Users\Adonis Molina\Desktop\AGAPE\practica arqlimpia\AbnerMolina.ArqLimpia\AbnerMolina.ArqLimpia.Interfaces\obj\Debug\net6.0\ref\AbnerMolina.ArqLimpia.BL.Interfaces.dll
